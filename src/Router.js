@@ -29,7 +29,7 @@ export const HomeStack = StackNavigator({
                 alignSelf: 'center',
                 textAlign: 'center'
             },
-            headerRight: <View/>
+            headerRight: <View />
         }
     }
 });
@@ -39,7 +39,11 @@ export const UserStack = StackNavigator({
     UserScreen: {
         screen: User,
         navigationOptions: {
-            title: 'Tài khoản'
+            title: 'Tài khoản',
+            headerTitleStyle: {
+                alignSelf: 'center',
+                textAlign: 'center'
+            },
         }
     }
 });

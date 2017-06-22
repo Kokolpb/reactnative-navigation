@@ -7,31 +7,37 @@ export default class Home extends Component {
     // }
 
     render() {
+        const { wrapper, btn, btn_touch } = styles;
         return (
-            <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+            <View style={wrapper}>
                 <Text>
                     Home
                 </Text>
-                <TouchableOpacity 
-
-                    style={{marginTop:20, justifyContent:'center'}}
+                <TouchableOpacity
+                    style={btn_touch}
                     onPress={() => {
-                        this.props.navigation.navigate('DetailScreen', {data:'Hello world', description:'hahaha'})
+                        this.props.navigation.navigate('DetailScreen', { data: 'Hello world', description: 'hahaha' })
                     }}
                 >
-                    <Text style={{color:'#fff', backgroundColor:'#333',padding:10,fontSize:18,borderRadius:5, alignItems:'center'}}>Goto Detail</Text>
+                    <Text style={btn}>Goto Detail</Text>
                 </TouchableOpacity>
 
-                <TouchableOpacity 
-
-                    style={{marginTop:20, justifyContent:'center'}}
+                <TouchableOpacity
+                    style={btn_touch}
                     onPress={() => {
                         this.props.navigation.navigate('DrawerOpen')
                     }}
                 >
-                    <Text style={{color:'#fff', backgroundColor:'#333',padding:10,fontSize:18,borderRadius:5, alignItems:'center' }}>Open Menu</Text>
+                    <Text style={btn}>Open Menu</Text>
                 </TouchableOpacity>
             </View>
         );
     }
+}
+
+const styles = {
+    wrapper: { flex: 1, justifyContent: 'center', alignItems: 'center' },
+    btn: { color: '#fff', backgroundColor: '#333', padding: 10, fontSize: 18, borderRadius: 5, alignItems: 'center' },
+    btn_touch: { marginTop: 20, justifyContent: 'center' }
+
 }

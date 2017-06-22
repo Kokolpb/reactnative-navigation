@@ -4,19 +4,20 @@ import { Text, View, TouchableOpacity } from 'react-native';
 export default class Detail extends Component {
     render() {
         const { params } = this.props.navigation.state;
+        const { wrapper, btn, btn_touch } = styles;
         return (
-            <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+            <View style={wrapper}>
                 <Text>
                     Detail
                 </Text>
 
                 <TouchableOpacity
-                    style={{ marginTop: 20, justifyContent: 'center' }}
+                    style={btn_touch}
                     onPress={() => {
                         this.props.navigation.goBack()
                     }}
                 >
-                    <Text style={{color:'#fff', backgroundColor:'#333',padding:10,fontSize:18,borderRadius:5, alignItems:'center'}}>Back</Text>
+                    <Text style={btn}>Back</Text>
                 </TouchableOpacity>
 
                 <Text>{params.data}</Text>
@@ -24,4 +25,11 @@ export default class Detail extends Component {
             </View>
         );
     }
+}
+
+
+const styles = {
+    wrapper: { flex: 1, justifyContent: 'center', alignItems: 'center' },
+    btn_touch: { marginTop: 20, justifyContent: 'center' },
+    btn: { color: '#fff', backgroundColor: '#333', padding: 10, fontSize: 18, borderRadius: 5, alignItems: 'center' }
 }
