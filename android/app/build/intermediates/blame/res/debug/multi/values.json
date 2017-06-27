@@ -2119,8 +2119,8 @@
                     "startLine": 258,
                     "startColumn": 4,
                     "startOffset": 31534,
-                    "endColumn": 45,
-                    "endOffset": 31575
+                    "endColumn": 52,
+                    "endOffset": 31582
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\src\\main\\res\\values\\strings.xml",
@@ -2128,8 +2128,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 16,
-                        "endColumn": 45,
-                        "endOffset": 57
+                        "endColumn": 52,
+                        "endOffset": 64
                     }
                 }
             },
@@ -2137,9 +2137,9 @@
                 "to": {
                     "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 31580,
+                    "startOffset": 31587,
                     "endColumn": 93,
-                    "endOffset": 31669
+                    "endOffset": 31676
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2149,9 +2149,9 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 31674,
+                    "startOffset": 31681,
                     "endColumn": 102,
-                    "endOffset": 31772
+                    "endOffset": 31779
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2161,9 +2161,9 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 31777,
+                    "startOffset": 31784,
                     "endColumn": 113,
-                    "endOffset": 31886
+                    "endOffset": 31893
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2173,9 +2173,9 @@
                 "to": {
                     "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 31891,
+                    "startOffset": 31898,
                     "endColumn": 106,
-                    "endOffset": 31993
+                    "endOffset": 32000
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2185,9 +2185,9 @@
                 "to": {
                     "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 31998,
+                    "startOffset": 32005,
                     "endColumn": 111,
-                    "endOffset": 32105
+                    "endOffset": 32112
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2197,9 +2197,9 @@
                 "to": {
                     "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 32110,
+                    "startOffset": 32117,
                     "endColumn": 102,
-                    "endOffset": 32208
+                    "endOffset": 32215
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2209,9 +2209,9 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 32213,
+                    "startOffset": 32220,
                     "endColumn": 120,
-                    "endOffset": 32329
+                    "endOffset": 32336
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2221,9 +2221,9 @@
                 "to": {
                     "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 32334,
+                    "startOffset": 32341,
                     "endColumn": 125,
-                    "endOffset": 32455
+                    "endOffset": 32462
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2233,9 +2233,9 @@
                 "to": {
                     "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 32460,
+                    "startOffset": 32467,
                     "endColumn": 190,
-                    "endOffset": 32646
+                    "endOffset": 32653
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2245,9 +2245,9 @@
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 32651,
+                    "startOffset": 32658,
                     "endColumn": 107,
-                    "endOffset": 32754
+                    "endOffset": 32761
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2257,9 +2257,9 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 32759,
+                    "startOffset": 32766,
                     "endColumn": 112,
-                    "endOffset": 32867
+                    "endOffset": 32874
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2269,9 +2269,9 @@
                 "to": {
                     "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 32872,
+                    "startOffset": 32879,
                     "endColumn": 112,
-                    "endOffset": 32980
+                    "endOffset": 32987
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2281,9 +2281,9 @@
                 "to": {
                     "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 32985,
+                    "startOffset": 32992,
                     "endColumn": 107,
-                    "endOffset": 33088
+                    "endOffset": 33095
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2293,9 +2293,9 @@
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 33093,
+                    "startOffset": 33100,
                     "endColumn": 111,
-                    "endOffset": 33200
+                    "endOffset": 33207
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2305,9 +2305,9 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 33205,
+                    "startOffset": 33212,
                     "endColumn": 128,
-                    "endOffset": 33329
+                    "endOffset": 33336
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2317,9 +2317,9 @@
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 33334,
+                    "startOffset": 33341,
                     "endColumn": 110,
-                    "endOffset": 33440
+                    "endOffset": 33447
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2329,9 +2329,9 @@
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 33445,
+                    "startOffset": 33452,
                     "endColumn": 92,
-                    "endOffset": 33533
+                    "endOffset": 33540
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2341,9 +2341,9 @@
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 33538,
+                    "startOffset": 33545,
                     "endColumn": 131,
-                    "endOffset": 33665
+                    "endOffset": 33672
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2353,9 +2353,9 @@
                 "to": {
                     "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 33670,
+                    "startOffset": 33677,
                     "endColumn": 124,
-                    "endOffset": 33790
+                    "endOffset": 33797
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2365,9 +2365,9 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 33795,
+                    "startOffset": 33802,
                     "endColumn": 97,
-                    "endOffset": 33888
+                    "endOffset": 33895
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2377,9 +2377,9 @@
                 "to": {
                     "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 33893,
+                    "startOffset": 33900,
                     "endColumn": 98,
-                    "endOffset": 33987
+                    "endOffset": 33994
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2389,9 +2389,9 @@
                 "to": {
                     "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 33992,
+                    "startOffset": 33999,
                     "endColumn": 113,
-                    "endOffset": 34101
+                    "endOffset": 34108
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2401,9 +2401,9 @@
                 "to": {
                     "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 34106,
+                    "startOffset": 34113,
                     "endColumn": 70,
-                    "endOffset": 34172
+                    "endOffset": 34179
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2413,9 +2413,9 @@
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 34177,
+                    "startOffset": 34184,
                     "endColumn": 77,
-                    "endOffset": 34250
+                    "endOffset": 34257
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2425,9 +2425,9 @@
                 "to": {
                     "startLine": 283,
                     "startColumn": 4,
-                    "startOffset": 34255,
+                    "startOffset": 34262,
                     "endColumn": 89,
-                    "endOffset": 34340
+                    "endOffset": 34347
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2437,9 +2437,9 @@
                 "to": {
                     "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 34345,
+                    "startOffset": 34352,
                     "endColumn": 87,
-                    "endOffset": 34428
+                    "endOffset": 34435
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2449,9 +2449,9 @@
                 "to": {
                     "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 34433,
+                    "startOffset": 34440,
                     "endColumn": 95,
-                    "endOffset": 34524
+                    "endOffset": 34531
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2461,10 +2461,10 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 34529,
+                    "startOffset": 34536,
                     "endLine": 289,
                     "endColumn": 10,
-                    "endOffset": 34772
+                    "endOffset": 34779
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -2474,10 +2474,10 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 34777,
+                    "startOffset": 34784,
                     "endLine": 292,
                     "endColumn": 12,
-                    "endOffset": 34865
+                    "endOffset": 34872
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\src\\main\\res\\values\\styles.xml"
@@ -2487,10 +2487,10 @@
                 "to": {
                     "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 34870,
+                    "startOffset": 34877,
                     "endLine": 299,
                     "endColumn": 12,
-                    "endOffset": 35366
+                    "endOffset": 35373
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2500,9 +2500,9 @@
                 "to": {
                     "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 35371,
+                    "startOffset": 35378,
                     "endColumn": 88,
-                    "endOffset": 35455
+                    "endOffset": 35462
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2512,10 +2512,10 @@
                 "to": {
                     "startLine": 301,
                     "startColumn": 4,
-                    "startOffset": 35460,
+                    "startOffset": 35467,
                     "endLine": 304,
                     "endColumn": 12,
-                    "endOffset": 35702
+                    "endOffset": 35709
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2525,10 +2525,10 @@
                 "to": {
                     "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 35707,
+                    "startOffset": 35714,
                     "endLine": 308,
                     "endColumn": 12,
-                    "endOffset": 35983
+                    "endOffset": 35990
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2538,10 +2538,10 @@
                 "to": {
                     "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 35988,
+                    "startOffset": 35995,
                     "endLine": 313,
                     "endColumn": 12,
-                    "endOffset": 36268
+                    "endOffset": 36275
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2551,10 +2551,10 @@
                 "to": {
                     "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 36273,
+                    "startOffset": 36280,
                     "endLine": 319,
                     "endColumn": 12,
-                    "endOffset": 36661
+                    "endOffset": 36668
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2564,10 +2564,10 @@
                 "to": {
                     "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 36666,
+                    "startOffset": 36673,
                     "endLine": 326,
                     "endColumn": 12,
-                    "endOffset": 37138
+                    "endOffset": 37145
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2577,10 +2577,10 @@
                 "to": {
                     "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 37143,
+                    "startOffset": 37150,
                     "endLine": 330,
                     "endColumn": 12,
-                    "endOffset": 37360
+                    "endOffset": 37367
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2590,10 +2590,10 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 37365,
+                    "startOffset": 37372,
                     "endLine": 334,
                     "endColumn": 12,
-                    "endOffset": 37582
+                    "endOffset": 37589
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2603,10 +2603,10 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 37587,
+                    "startOffset": 37594,
                     "endLine": 339,
                     "endColumn": 12,
-                    "endOffset": 37850
+                    "endOffset": 37857
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2616,10 +2616,10 @@
                 "to": {
                     "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 37855,
+                    "startOffset": 37862,
                     "endLine": 343,
                     "endColumn": 12,
-                    "endOffset": 38077
+                    "endOffset": 38084
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2629,10 +2629,10 @@
                 "to": {
                     "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 38082,
+                    "startOffset": 38089,
                     "endLine": 347,
                     "endColumn": 12,
-                    "endOffset": 38307
+                    "endOffset": 38314
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2642,10 +2642,10 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 38312,
+                    "startOffset": 38319,
                     "endLine": 351,
                     "endColumn": 12,
-                    "endOffset": 38537
+                    "endOffset": 38544
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2655,10 +2655,10 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 38542,
+                    "startOffset": 38549,
                     "endLine": 355,
                     "endColumn": 12,
-                    "endOffset": 38767
+                    "endOffset": 38774
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2668,10 +2668,10 @@
                 "to": {
                     "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 38772,
+                    "startOffset": 38779,
                     "endLine": 359,
                     "endColumn": 12,
-                    "endOffset": 38997
+                    "endOffset": 39004
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2681,10 +2681,10 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 39002,
+                    "startOffset": 39009,
                     "endLine": 363,
                     "endColumn": 12,
-                    "endOffset": 39224
+                    "endOffset": 39231
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2694,10 +2694,10 @@
                 "to": {
                     "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 39229,
+                    "startOffset": 39236,
                     "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 39463
+                    "endOffset": 39470
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2707,10 +2707,10 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 39468,
+                    "startOffset": 39475,
                     "endLine": 371,
                     "endColumn": 12,
-                    "endOffset": 39689
+                    "endOffset": 39696
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2720,10 +2720,10 @@
                 "to": {
                     "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 39694,
+                    "startOffset": 39701,
                     "endLine": 375,
                     "endColumn": 12,
-                    "endOffset": 39934
+                    "endOffset": 39941
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2733,10 +2733,10 @@
                 "to": {
                     "startLine": 376,
                     "startColumn": 4,
-                    "startOffset": 39939,
+                    "startOffset": 39946,
                     "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 40064
+                    "endOffset": 40071
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2746,10 +2746,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 40069,
+                    "startOffset": 40076,
                     "endLine": 379,
                     "endColumn": 12,
-                    "endOffset": 40194
+                    "endOffset": 40201
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2759,10 +2759,10 @@
                 "to": {
                     "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 40199,
+                    "startOffset": 40206,
                     "endLine": 383,
                     "endColumn": 12,
-                    "endOffset": 40424
+                    "endOffset": 40431
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2772,10 +2772,10 @@
                 "to": {
                     "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 40429,
+                    "startOffset": 40436,
                     "endLine": 387,
                     "endColumn": 12,
-                    "endOffset": 40672
+                    "endOffset": 40679
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2785,10 +2785,10 @@
                 "to": {
                     "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 40677,
+                    "startOffset": 40684,
                     "endLine": 391,
                     "endColumn": 12,
-                    "endOffset": 40891
+                    "endOffset": 40898
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2798,10 +2798,10 @@
                 "to": {
                     "startLine": 392,
                     "startColumn": 4,
-                    "startOffset": 40896,
+                    "startOffset": 40903,
                     "endLine": 396,
                     "endColumn": 12,
-                    "endOffset": 41174
+                    "endOffset": 41181
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2811,10 +2811,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 41179,
+                    "startOffset": 41186,
                     "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 41382
+                    "endOffset": 41389
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2824,10 +2824,10 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 41387,
+                    "startOffset": 41394,
                     "endLine": 403,
                     "endColumn": 12,
-                    "endOffset": 41513
+                    "endOffset": 41520
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2837,10 +2837,10 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 41518,
+                    "startOffset": 41525,
                     "endLine": 407,
                     "endColumn": 12,
-                    "endOffset": 41740
+                    "endOffset": 41747
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2850,10 +2850,10 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 41745,
+                    "startOffset": 41752,
                     "endLine": 411,
                     "endColumn": 12,
-                    "endOffset": 41986
+                    "endOffset": 41993
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2863,10 +2863,10 @@
                 "to": {
                     "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 41991,
+                    "startOffset": 41998,
                     "endLine": 415,
                     "endColumn": 12,
-                    "endOffset": 42211
+                    "endOffset": 42218
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2876,10 +2876,10 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 42216,
+                    "startOffset": 42223,
                     "endLine": 419,
                     "endColumn": 12,
-                    "endOffset": 42458
+                    "endOffset": 42465
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2889,10 +2889,10 @@
                 "to": {
                     "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 42463,
+                    "startOffset": 42470,
                     "endLine": 423,
                     "endColumn": 12,
-                    "endOffset": 42679
+                    "endOffset": 42686
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2902,10 +2902,10 @@
                 "to": {
                     "startLine": 424,
                     "startColumn": 4,
-                    "startOffset": 42684,
+                    "startOffset": 42691,
                     "endLine": 427,
                     "endColumn": 12,
-                    "endOffset": 42924
+                    "endOffset": 42931
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2915,10 +2915,10 @@
                 "to": {
                     "startLine": 428,
                     "startColumn": 4,
-                    "startOffset": 42929,
+                    "startOffset": 42936,
                     "endLine": 431,
                     "endColumn": 12,
-                    "endOffset": 43198
+                    "endOffset": 43205
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2928,10 +2928,10 @@
                 "to": {
                     "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 43203,
+                    "startOffset": 43210,
                     "endLine": 435,
                     "endColumn": 12,
-                    "endOffset": 43499
+                    "endOffset": 43506
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2941,10 +2941,10 @@
                 "to": {
                     "startLine": 436,
                     "startColumn": 4,
-                    "startOffset": 43504,
+                    "startOffset": 43511,
                     "endLine": 439,
                     "endColumn": 12,
-                    "endOffset": 43823
+                    "endOffset": 43830
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2954,10 +2954,10 @@
                 "to": {
                     "startLine": 440,
                     "startColumn": 4,
-                    "startOffset": 43828,
+                    "startOffset": 43835,
                     "endLine": 443,
                     "endColumn": 12,
-                    "endOffset": 44114
+                    "endOffset": 44121
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2967,10 +2967,10 @@
                 "to": {
                     "startLine": 444,
                     "startColumn": 4,
-                    "startOffset": 44119,
+                    "startOffset": 44126,
                     "endLine": 447,
                     "endColumn": 12,
-                    "endOffset": 44428
+                    "endOffset": 44435
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2980,9 +2980,9 @@
                 "to": {
                     "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 44433,
+                    "startOffset": 44440,
                     "endColumn": 136,
-                    "endOffset": 44565
+                    "endOffset": 44572
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -2992,9 +2992,9 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 44570,
+                    "startOffset": 44577,
                     "endColumn": 130,
-                    "endOffset": 44696
+                    "endOffset": 44703
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3004,9 +3004,9 @@
                 "to": {
                     "startLine": 450,
                     "startColumn": 4,
-                    "startOffset": 44701,
+                    "startOffset": 44708,
                     "endColumn": 104,
-                    "endOffset": 44801
+                    "endOffset": 44808
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3016,10 +3016,10 @@
                 "to": {
                     "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 44806,
+                    "startOffset": 44813,
                     "endLine": 453,
                     "endColumn": 12,
-                    "endOffset": 45005
+                    "endOffset": 45012
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3029,10 +3029,10 @@
                 "to": {
                     "startLine": 454,
                     "startColumn": 4,
-                    "startOffset": 45010,
+                    "startOffset": 45017,
                     "endLine": 456,
                     "endColumn": 12,
-                    "endOffset": 45213
+                    "endOffset": 45220
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3042,10 +3042,10 @@
                 "to": {
                     "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 45218,
+                    "startOffset": 45225,
                     "endLine": 458,
                     "endColumn": 12,
-                    "endOffset": 45337
+                    "endOffset": 45344
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3055,10 +3055,10 @@
                 "to": {
                     "startLine": 459,
                     "startColumn": 4,
-                    "startOffset": 45342,
+                    "startOffset": 45349,
                     "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 45461
+                    "endOffset": 45468
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3068,9 +3068,9 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 45466,
+                    "startOffset": 45473,
                     "endColumn": 104,
-                    "endOffset": 45566
+                    "endOffset": 45573
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3080,9 +3080,9 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 45571,
+                    "startOffset": 45578,
                     "endColumn": 116,
-                    "endOffset": 45683
+                    "endOffset": 45690
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3092,10 +3092,10 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 45688,
+                    "startOffset": 45695,
                     "endLine": 465,
                     "endColumn": 12,
-                    "endOffset": 45897
+                    "endOffset": 45904
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3105,10 +3105,10 @@
                 "to": {
                     "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 45902,
+                    "startOffset": 45909,
                     "endLine": 467,
                     "endColumn": 12,
-                    "endOffset": 46043
+                    "endOffset": 46050
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3118,10 +3118,10 @@
                 "to": {
                     "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 46048,
+                    "startOffset": 46055,
                     "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 46183
+                    "endOffset": 46190
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3131,10 +3131,10 @@
                 "to": {
                     "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 46188,
+                    "startOffset": 46195,
                     "endLine": 471,
                     "endColumn": 12,
-                    "endOffset": 46269
+                    "endOffset": 46276
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3144,10 +3144,10 @@
                 "to": {
                     "startLine": 472,
                     "startColumn": 4,
-                    "startOffset": 46274,
+                    "startOffset": 46281,
                     "endLine": 476,
                     "endColumn": 12,
-                    "endOffset": 46617
+                    "endOffset": 46624
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3157,9 +3157,9 @@
                 "to": {
                     "startLine": 477,
                     "startColumn": 4,
-                    "startOffset": 46622,
+                    "startOffset": 46629,
                     "endColumn": 87,
-                    "endOffset": 46705
+                    "endOffset": 46712
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3169,10 +3169,10 @@
                 "to": {
                     "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 46710,
+                    "startOffset": 46717,
                     "endLine": 481,
                     "endColumn": 12,
-                    "endOffset": 46935
+                    "endOffset": 46942
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3182,10 +3182,10 @@
                 "to": {
                     "startLine": 482,
                     "startColumn": 4,
-                    "startOffset": 46940,
+                    "startOffset": 46947,
                     "endLine": 487,
                     "endColumn": 12,
-                    "endOffset": 47337
+                    "endOffset": 47344
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3195,10 +3195,10 @@
                 "to": {
                     "startLine": 488,
                     "startColumn": 4,
-                    "startOffset": 47342,
+                    "startOffset": 47349,
                     "endLine": 491,
                     "endColumn": 12,
-                    "endOffset": 47570
+                    "endOffset": 47577
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3208,9 +3208,9 @@
                 "to": {
                     "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 47575,
+                    "startOffset": 47582,
                     "endColumn": 81,
-                    "endOffset": 47652
+                    "endOffset": 47659
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3220,10 +3220,10 @@
                 "to": {
                     "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 47657,
+                    "startOffset": 47664,
                     "endLine": 494,
                     "endColumn": 12,
-                    "endOffset": 47750
+                    "endOffset": 47757
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3233,10 +3233,10 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 47755,
+                    "startOffset": 47762,
                     "endLine": 505,
                     "endColumn": 12,
-                    "endOffset": 48342
+                    "endOffset": 48349
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3246,9 +3246,9 @@
                 "to": {
                     "startLine": 506,
                     "startColumn": 4,
-                    "startOffset": 48347,
+                    "startOffset": 48354,
                     "endColumn": 99,
-                    "endOffset": 48442
+                    "endOffset": 48449
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3258,10 +3258,10 @@
                 "to": {
                     "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 48447,
+                    "startOffset": 48454,
                     "endLine": 510,
                     "endColumn": 12,
-                    "endOffset": 48678
+                    "endOffset": 48685
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3271,10 +3271,10 @@
                 "to": {
                     "startLine": 511,
                     "startColumn": 4,
-                    "startOffset": 48683,
+                    "startOffset": 48690,
                     "endLine": 516,
                     "endColumn": 12,
-                    "endOffset": 49086
+                    "endOffset": 49093
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3284,10 +3284,10 @@
                 "to": {
                     "startLine": 517,
                     "startColumn": 4,
-                    "startOffset": 49091,
+                    "startOffset": 49098,
                     "endLine": 520,
                     "endColumn": 12,
-                    "endOffset": 49325
+                    "endOffset": 49332
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3297,9 +3297,9 @@
                 "to": {
                     "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 49330,
+                    "startOffset": 49337,
                     "endColumn": 93,
-                    "endOffset": 49419
+                    "endOffset": 49426
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3309,9 +3309,9 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 49424,
+                    "startOffset": 49431,
                     "endColumn": 88,
-                    "endOffset": 49508
+                    "endOffset": 49515
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3321,10 +3321,10 @@
                 "to": {
                     "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 49513,
+                    "startOffset": 49520,
                     "endLine": 526,
                     "endColumn": 12,
-                    "endOffset": 49745
+                    "endOffset": 49752
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3334,10 +3334,10 @@
                 "to": {
                     "startLine": 527,
                     "startColumn": 4,
-                    "startOffset": 49750,
+                    "startOffset": 49757,
                     "endLine": 552,
                     "endColumn": 12,
-                    "endOffset": 51668
+                    "endOffset": 51675
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3347,10 +3347,10 @@
                 "to": {
                     "startLine": 553,
                     "startColumn": 4,
-                    "startOffset": 51673,
+                    "startOffset": 51680,
                     "endLine": 556,
                     "endColumn": 12,
-                    "endOffset": 51910
+                    "endOffset": 51917
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3360,10 +3360,10 @@
                 "to": {
                     "startLine": 557,
                     "startColumn": 4,
-                    "startOffset": 51915,
+                    "startOffset": 51922,
                     "endLine": 583,
                     "endColumn": 12,
-                    "endOffset": 53964
+                    "endOffset": 53971
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3373,10 +3373,10 @@
                 "to": {
                     "startLine": 584,
                     "startColumn": 4,
-                    "startOffset": 53969,
+                    "startOffset": 53976,
                     "endLine": 730,
                     "endColumn": 12,
-                    "endOffset": 62826
+                    "endOffset": 62833
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3386,10 +3386,10 @@
                 "to": {
                     "startLine": 731,
                     "startColumn": 4,
-                    "startOffset": 62831,
+                    "startOffset": 62838,
                     "endLine": 752,
                     "endColumn": 12,
-                    "endOffset": 64093
+                    "endOffset": 64100
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3399,10 +3399,10 @@
                 "to": {
                     "startLine": 753,
                     "startColumn": 4,
-                    "startOffset": 64098,
+                    "startOffset": 64105,
                     "endLine": 899,
                     "endColumn": 12,
-                    "endOffset": 73065
+                    "endOffset": 73072
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3412,10 +3412,10 @@
                 "to": {
                     "startLine": 900,
                     "startColumn": 4,
-                    "startOffset": 73070,
+                    "startOffset": 73077,
                     "endLine": 921,
                     "endColumn": 12,
-                    "endOffset": 74346
+                    "endOffset": 74353
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3425,10 +3425,10 @@
                 "to": {
                     "startLine": 922,
                     "startColumn": 4,
-                    "startOffset": 74351,
+                    "startOffset": 74358,
                     "endLine": 928,
                     "endColumn": 12,
-                    "endOffset": 74882
+                    "endOffset": 74889
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3438,10 +3438,10 @@
                 "to": {
                     "startLine": 929,
                     "startColumn": 4,
-                    "startOffset": 74887,
+                    "startOffset": 74894,
                     "endLine": 933,
                     "endColumn": 12,
-                    "endOffset": 75212
+                    "endOffset": 75219
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3451,10 +3451,10 @@
                 "to": {
                     "startLine": 934,
                     "startColumn": 4,
-                    "startOffset": 75217,
+                    "startOffset": 75224,
                     "endLine": 954,
                     "endColumn": 12,
-                    "endOffset": 76335
+                    "endOffset": 76342
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3464,10 +3464,10 @@
                 "to": {
                     "startLine": 955,
                     "startColumn": 4,
-                    "startOffset": 76340,
+                    "startOffset": 76347,
                     "endLine": 959,
                     "endColumn": 12,
-                    "endOffset": 76591
+                    "endOffset": 76598
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3477,10 +3477,10 @@
                 "to": {
                     "startLine": 960,
                     "startColumn": 4,
-                    "startOffset": 76596,
+                    "startOffset": 76603,
                     "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 76827
+                    "endOffset": 76834
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3490,10 +3490,10 @@
                 "to": {
                     "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 76832,
+                    "startOffset": 76839,
                     "endLine": 974,
                     "endColumn": 12,
-                    "endOffset": 77374
+                    "endOffset": 77381
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3503,10 +3503,10 @@
                 "to": {
                     "startLine": 975,
                     "startColumn": 4,
-                    "startOffset": 77379,
+                    "startOffset": 77386,
                     "endLine": 983,
                     "endColumn": 12,
-                    "endOffset": 77868
+                    "endOffset": 77875
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3516,10 +3516,10 @@
                 "to": {
                     "startLine": 984,
                     "startColumn": 4,
-                    "startOffset": 77873,
+                    "startOffset": 77880,
                     "endLine": 994,
                     "endColumn": 12,
-                    "endOffset": 78541
+                    "endOffset": 78548
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3529,10 +3529,10 @@
                 "to": {
                     "startLine": 995,
                     "startColumn": 4,
-                    "startOffset": 78546,
+                    "startOffset": 78553,
                     "endLine": 997,
                     "endColumn": 12,
-                    "endOffset": 78689
+                    "endOffset": 78696
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3542,10 +3542,10 @@
                 "to": {
                     "startLine": 998,
                     "startColumn": 4,
-                    "startOffset": 78694,
+                    "startOffset": 78701,
                     "endLine": 1004,
                     "endColumn": 12,
-                    "endOffset": 79217
+                    "endOffset": 79224
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3555,10 +3555,10 @@
                 "to": {
                     "startLine": 1005,
                     "startColumn": 4,
-                    "startOffset": 79222,
+                    "startOffset": 79229,
                     "endLine": 1012,
                     "endColumn": 12,
-                    "endOffset": 79781
+                    "endOffset": 79788
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3568,10 +3568,10 @@
                 "to": {
                     "startLine": 1013,
                     "startColumn": 4,
-                    "startOffset": 79786,
+                    "startOffset": 79793,
                     "endLine": 1019,
                     "endColumn": 12,
-                    "endOffset": 80156
+                    "endOffset": 80163
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3581,9 +3581,9 @@
                 "to": {
                     "startLine": 1020,
                     "startColumn": 4,
-                    "startOffset": 80161,
+                    "startOffset": 80168,
                     "endColumn": 117,
-                    "endOffset": 80274
+                    "endOffset": 80281
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3593,10 +3593,10 @@
                 "to": {
                     "startLine": 1021,
                     "startColumn": 4,
-                    "startOffset": 80279,
+                    "startOffset": 80286,
                     "endLine": 1029,
                     "endColumn": 12,
-                    "endOffset": 80812
+                    "endOffset": 80819
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3606,10 +3606,10 @@
                 "to": {
                     "startLine": 1030,
                     "startColumn": 4,
-                    "startOffset": 80817,
+                    "startOffset": 80824,
                     "endLine": 1032,
                     "endColumn": 12,
-                    "endOffset": 80969
+                    "endOffset": 80976
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3619,10 +3619,10 @@
                 "to": {
                     "startLine": 1033,
                     "startColumn": 4,
-                    "startOffset": 80974,
+                    "startOffset": 80981,
                     "endLine": 1035,
                     "endColumn": 12,
-                    "endOffset": 81113
+                    "endOffset": 81120
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3632,10 +3632,10 @@
                 "to": {
                     "startLine": 1036,
                     "startColumn": 4,
-                    "startOffset": 81118,
+                    "startOffset": 81125,
                     "endLine": 1040,
                     "endColumn": 12,
-                    "endOffset": 81433
+                    "endOffset": 81440
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3645,10 +3645,10 @@
                 "to": {
                     "startLine": 1041,
                     "startColumn": 4,
-                    "startOffset": 81438,
+                    "startOffset": 81445,
                     "endLine": 1044,
                     "endColumn": 12,
-                    "endOffset": 81689
+                    "endOffset": 81696
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3658,10 +3658,10 @@
                 "to": {
                     "startLine": 1045,
                     "startColumn": 4,
-                    "startOffset": 81694,
+                    "startOffset": 81701,
                     "endLine": 1048,
                     "endColumn": 12,
-                    "endOffset": 81859
+                    "endOffset": 81866
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3671,10 +3671,10 @@
                 "to": {
                     "startLine": 1049,
                     "startColumn": 4,
-                    "startOffset": 81864,
+                    "startOffset": 81871,
                     "endLine": 1051,
                     "endColumn": 12,
-                    "endOffset": 82000
+                    "endOffset": 82007
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3684,9 +3684,9 @@
                 "to": {
                     "startLine": 1052,
                     "startColumn": 4,
-                    "startOffset": 82005,
+                    "startOffset": 82012,
                     "endColumn": 63,
-                    "endOffset": 82064
+                    "endOffset": 82071
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3696,10 +3696,10 @@
                 "to": {
                     "startLine": 1053,
                     "startColumn": 4,
-                    "startOffset": 82069,
+                    "startOffset": 82076,
                     "endLine": 1056,
                     "endColumn": 12,
-                    "endOffset": 82346
+                    "endOffset": 82353
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3709,10 +3709,10 @@
                 "to": {
                     "startLine": 1057,
                     "startColumn": 4,
-                    "startOffset": 82351,
+                    "startOffset": 82358,
                     "endLine": 1060,
                     "endColumn": 12,
-                    "endOffset": 82632
+                    "endOffset": 82639
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3722,10 +3722,10 @@
                 "to": {
                     "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 82637,
+                    "startOffset": 82644,
                     "endLine": 1068,
                     "endColumn": 12,
-                    "endOffset": 83174
+                    "endOffset": 83181
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3735,10 +3735,10 @@
                 "to": {
                     "startLine": 1069,
                     "startColumn": 4,
-                    "startOffset": 83179,
+                    "startOffset": 83186,
                     "endLine": 1073,
                     "endColumn": 12,
-                    "endOffset": 83438
+                    "endOffset": 83445
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3748,10 +3748,10 @@
                 "to": {
                     "startLine": 1074,
                     "startColumn": 4,
-                    "startOffset": 83443,
+                    "startOffset": 83450,
                     "endLine": 1080,
                     "endColumn": 12,
-                    "endOffset": 83776
+                    "endOffset": 83783
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3761,10 +3761,10 @@
                 "to": {
                     "startLine": 1081,
                     "startColumn": 4,
-                    "startOffset": 83781,
+                    "startOffset": 83788,
                     "endLine": 1086,
                     "endColumn": 12,
-                    "endOffset": 84129
+                    "endOffset": 84136
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3774,9 +3774,9 @@
                 "to": {
                     "startLine": 1087,
                     "startColumn": 4,
-                    "startOffset": 84134,
+                    "startOffset": 84141,
                     "endColumn": 93,
-                    "endOffset": 84223
+                    "endOffset": 84230
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3786,10 +3786,10 @@
                 "to": {
                     "startLine": 1088,
                     "startColumn": 4,
-                    "startOffset": 84228,
+                    "startOffset": 84235,
                     "endLine": 1091,
                     "endColumn": 12,
-                    "endOffset": 84529
+                    "endOffset": 84536
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3799,10 +3799,10 @@
                 "to": {
                     "startLine": 1092,
                     "startColumn": 4,
-                    "startOffset": 84534,
+                    "startOffset": 84541,
                     "endLine": 1096,
                     "endColumn": 12,
-                    "endOffset": 84791
+                    "endOffset": 84798
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3812,10 +3812,10 @@
                 "to": {
                     "startLine": 1097,
                     "startColumn": 4,
-                    "startOffset": 84796,
+                    "startOffset": 84803,
                     "endLine": 1098,
                     "endColumn": 12,
-                    "endOffset": 84916
+                    "endOffset": 84923
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3825,10 +3825,10 @@
                 "to": {
                     "startLine": 1099,
                     "startColumn": 4,
-                    "startOffset": 84921,
+                    "startOffset": 84928,
                     "endLine": 1100,
                     "endColumn": 12,
-                    "endOffset": 85043
+                    "endOffset": 85050
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3838,10 +3838,10 @@
                 "to": {
                     "startLine": 1101,
                     "startColumn": 4,
-                    "startOffset": 85048,
+                    "startOffset": 85055,
                     "endLine": 1103,
                     "endColumn": 12,
-                    "endOffset": 85282
+                    "endOffset": 85289
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3851,10 +3851,10 @@
                 "to": {
                     "startLine": 1104,
                     "startColumn": 4,
-                    "startOffset": 85287,
+                    "startOffset": 85294,
                     "endLine": 1106,
                     "endColumn": 12,
-                    "endOffset": 85493
+                    "endOffset": 85500
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3864,10 +3864,10 @@
                 "to": {
                     "startLine": 1107,
                     "startColumn": 4,
-                    "startOffset": 85498,
+                    "startOffset": 85505,
                     "endLine": 1108,
                     "endColumn": 12,
-                    "endOffset": 85612
+                    "endOffset": 85619
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3877,10 +3877,10 @@
                 "to": {
                     "startLine": 1109,
                     "startColumn": 4,
-                    "startOffset": 85617,
+                    "startOffset": 85624,
                     "endLine": 1112,
                     "endColumn": 12,
-                    "endOffset": 85805
+                    "endOffset": 85812
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3890,10 +3890,10 @@
                 "to": {
                     "startLine": 1113,
                     "startColumn": 4,
-                    "startOffset": 85810,
+                    "startOffset": 85817,
                     "endLine": 1119,
                     "endColumn": 12,
-                    "endOffset": 86260
+                    "endOffset": 86267
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3903,10 +3903,10 @@
                 "to": {
                     "startLine": 1120,
                     "startColumn": 4,
-                    "startOffset": 86265,
+                    "startOffset": 86272,
                     "endLine": 1122,
                     "endColumn": 12,
-                    "endOffset": 86441
+                    "endOffset": 86448
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3916,10 +3916,10 @@
                 "to": {
                     "startLine": 1123,
                     "startColumn": 4,
-                    "startOffset": 86446,
+                    "startOffset": 86453,
                     "endLine": 1125,
                     "endColumn": 12,
-                    "endOffset": 86563
+                    "endOffset": 86570
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3929,10 +3929,10 @@
                 "to": {
                     "startLine": 1126,
                     "startColumn": 4,
-                    "startOffset": 86568,
+                    "startOffset": 86575,
                     "endLine": 1129,
                     "endColumn": 12,
-                    "endOffset": 86822
+                    "endOffset": 86829
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3942,10 +3942,10 @@
                 "to": {
                     "startLine": 1130,
                     "startColumn": 4,
-                    "startOffset": 86827,
+                    "startOffset": 86834,
                     "endLine": 1131,
                     "endColumn": 12,
-                    "endOffset": 86935
+                    "endOffset": 86942
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3955,10 +3955,10 @@
                 "to": {
                     "startLine": 1132,
                     "startColumn": 4,
-                    "startOffset": 86940,
+                    "startOffset": 86947,
                     "endLine": 1135,
                     "endColumn": 12,
-                    "endOffset": 87122
+                    "endOffset": 87129
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3968,10 +3968,10 @@
                 "to": {
                     "startLine": 1136,
                     "startColumn": 4,
-                    "startOffset": 87127,
+                    "startOffset": 87134,
                     "endLine": 1137,
                     "endColumn": 12,
-                    "endOffset": 87224
+                    "endOffset": 87231
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3981,10 +3981,10 @@
                 "to": {
                     "startLine": 1138,
                     "startColumn": 4,
-                    "startOffset": 87229,
+                    "startOffset": 87236,
                     "endLine": 1143,
                     "endColumn": 12,
-                    "endOffset": 87668
+                    "endOffset": 87675
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -3994,10 +3994,10 @@
                 "to": {
                     "startLine": 1144,
                     "startColumn": 4,
-                    "startOffset": 87673,
+                    "startOffset": 87680,
                     "endLine": 1145,
                     "endColumn": 12,
-                    "endOffset": 87792
+                    "endOffset": 87799
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4007,10 +4007,10 @@
                 "to": {
                     "startLine": 1146,
                     "startColumn": 4,
-                    "startOffset": 87797,
+                    "startOffset": 87804,
                     "endLine": 1149,
                     "endColumn": 12,
-                    "endOffset": 88077
+                    "endOffset": 88084
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4020,10 +4020,10 @@
                 "to": {
                     "startLine": 1150,
                     "startColumn": 4,
-                    "startOffset": 88082,
+                    "startOffset": 88089,
                     "endLine": 1161,
                     "endColumn": 12,
-                    "endOffset": 88964
+                    "endOffset": 88971
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4033,10 +4033,10 @@
                 "to": {
                     "startLine": 1162,
                     "startColumn": 4,
-                    "startOffset": 88969,
+                    "startOffset": 88976,
                     "endLine": 1167,
                     "endColumn": 12,
-                    "endOffset": 89258
+                    "endOffset": 89265
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4046,10 +4046,10 @@
                 "to": {
                     "startLine": 1168,
                     "startColumn": 4,
-                    "startOffset": 89263,
+                    "startOffset": 89270,
                     "endLine": 1178,
                     "endColumn": 12,
-                    "endOffset": 89990
+                    "endOffset": 89997
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4059,10 +4059,10 @@
                 "to": {
                     "startLine": 1179,
                     "startColumn": 4,
-                    "startOffset": 89995,
+                    "startOffset": 90002,
                     "endLine": 1181,
                     "endColumn": 12,
-                    "endOffset": 90162
+                    "endOffset": 90169
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4072,10 +4072,10 @@
                 "to": {
                     "startLine": 1182,
                     "startColumn": 4,
-                    "startOffset": 90167,
+                    "startOffset": 90174,
                     "endLine": 1186,
                     "endColumn": 12,
-                    "endOffset": 90498
+                    "endOffset": 90505
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4085,10 +4085,10 @@
                 "to": {
                     "startLine": 1187,
                     "startColumn": 4,
-                    "startOffset": 90503,
+                    "startOffset": 90510,
                     "endLine": 1198,
                     "endColumn": 12,
-                    "endOffset": 91365
+                    "endOffset": 91372
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4098,10 +4098,10 @@
                 "to": {
                     "startLine": 1199,
                     "startColumn": 4,
-                    "startOffset": 91370,
+                    "startOffset": 91377,
                     "endLine": 1203,
                     "endColumn": 12,
-                    "endOffset": 91643
+                    "endOffset": 91650
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4111,10 +4111,10 @@
                 "to": {
                     "startLine": 1204,
                     "startColumn": 4,
-                    "startOffset": 91648,
+                    "startOffset": 91655,
                     "endLine": 1206,
                     "endColumn": 12,
-                    "endOffset": 91846
+                    "endOffset": 91853
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -4124,10 +4124,10 @@
                 "to": {
                     "startLine": 1207,
                     "startColumn": 4,
-                    "startOffset": 91851,
+                    "startOffset": 91858,
                     "endLine": 1209,
                     "endColumn": 12,
-                    "endOffset": 92037
+                    "endOffset": 92044
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -4137,10 +4137,10 @@
                 "to": {
                     "startLine": 1210,
                     "startColumn": 4,
-                    "startOffset": 92042,
+                    "startOffset": 92049,
                     "endLine": 1213,
                     "endColumn": 10,
-                    "endOffset": 92221
+                    "endOffset": 92228
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -4150,10 +4150,10 @@
                 "to": {
                     "startLine": 1214,
                     "startColumn": 4,
-                    "startOffset": 92226,
+                    "startOffset": 92233,
                     "endLine": 1217,
                     "endColumn": 10,
-                    "endOffset": 92409
+                    "endOffset": 92416
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -4163,10 +4163,10 @@
                 "to": {
                     "startLine": 1218,
                     "startColumn": 4,
-                    "startOffset": 92414,
+                    "startOffset": 92421,
                     "endLine": 1255,
                     "endColumn": 12,
-                    "endOffset": 95209
+                    "endOffset": 95216
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4176,10 +4176,10 @@
                 "to": {
                     "startLine": 1256,
                     "startColumn": 4,
-                    "startOffset": 95214,
+                    "startOffset": 95221,
                     "endLine": 1294,
                     "endColumn": 12,
-                    "endOffset": 98149
+                    "endOffset": 98156
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4189,9 +4189,9 @@
                 "to": {
                     "startLine": 1295,
                     "startColumn": 4,
-                    "startOffset": 98154,
+                    "startOffset": 98161,
                     "endColumn": 61,
-                    "endOffset": 98211
+                    "endOffset": 98218
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4201,10 +4201,10 @@
                 "to": {
                     "startLine": 1296,
                     "startColumn": 4,
-                    "startOffset": 98216,
+                    "startOffset": 98223,
                     "endLine": 1305,
                     "endColumn": 12,
-                    "endOffset": 98789
+                    "endOffset": 98796
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4214,10 +4214,10 @@
                 "to": {
                     "startLine": 1306,
                     "startColumn": 4,
-                    "startOffset": 98794,
+                    "startOffset": 98801,
                     "endLine": 1314,
                     "endColumn": 12,
-                    "endOffset": 99373
+                    "endOffset": 99380
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4227,9 +4227,9 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 99378,
+                    "startOffset": 99385,
                     "endColumn": 85,
-                    "endOffset": 99459
+                    "endOffset": 99466
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4239,10 +4239,10 @@
                 "to": {
                     "startLine": 1316,
                     "startColumn": 4,
-                    "startOffset": 99464,
+                    "startOffset": 99471,
                     "endLine": 1317,
                     "endColumn": 12,
-                    "endOffset": 99572
+                    "endOffset": 99579
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4252,10 +4252,10 @@
                 "to": {
                     "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 99577,
+                    "startOffset": 99584,
                     "endLine": 1321,
                     "endColumn": 12,
-                    "endOffset": 99801
+                    "endOffset": 99808
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4265,10 +4265,10 @@
                 "to": {
                     "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 99806,
+                    "startOffset": 99813,
                     "endLine": 1325,
                     "endColumn": 12,
-                    "endOffset": 100139
+                    "endOffset": 100146
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4278,10 +4278,10 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 100144,
+                    "startOffset": 100151,
                     "endLine": 1328,
                     "endColumn": 12,
-                    "endOffset": 100299
+                    "endOffset": 100306
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4291,10 +4291,10 @@
                 "to": {
                     "startLine": 1329,
                     "startColumn": 4,
-                    "startOffset": 100304,
+                    "startOffset": 100311,
                     "endLine": 1331,
                     "endColumn": 12,
-                    "endOffset": 100451
+                    "endOffset": 100458
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4304,10 +4304,10 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 100456,
+                    "startOffset": 100463,
                     "endLine": 1334,
                     "endColumn": 12,
-                    "endOffset": 100622
+                    "endOffset": 100629
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4317,10 +4317,10 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 100627,
+                    "startOffset": 100634,
                     "endLine": 1337,
                     "endColumn": 12,
-                    "endOffset": 100789
+                    "endOffset": 100796
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4330,10 +4330,10 @@
                 "to": {
                     "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 100794,
+                    "startOffset": 100801,
                     "endLine": 1341,
                     "endColumn": 12,
-                    "endOffset": 101032
+                    "endOffset": 101039
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4343,10 +4343,10 @@
                 "to": {
                     "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 101037,
+                    "startOffset": 101044,
                     "endLine": 1344,
                     "endColumn": 12,
-                    "endOffset": 101202
+                    "endOffset": 101209
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4356,10 +4356,10 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 101207,
+                    "startOffset": 101214,
                     "endLine": 1347,
                     "endColumn": 12,
-                    "endOffset": 101375
+                    "endOffset": 101382
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4369,10 +4369,10 @@
                 "to": {
                     "startLine": 1348,
                     "startColumn": 4,
-                    "startOffset": 101380,
+                    "startOffset": 101387,
                     "endLine": 1350,
                     "endColumn": 12,
-                    "endOffset": 101546
+                    "endOffset": 101553
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4382,10 +4382,10 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 101551,
+                    "startOffset": 101558,
                     "endLine": 1354,
                     "endColumn": 12,
-                    "endOffset": 101820
+                    "endOffset": 101827
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4395,10 +4395,10 @@
                 "to": {
                     "startLine": 1355,
                     "startColumn": 4,
-                    "startOffset": 101825,
+                    "startOffset": 101832,
                     "endLine": 1357,
                     "endColumn": 12,
-                    "endOffset": 102019
+                    "endOffset": 102026
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4408,10 +4408,10 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 102024,
+                    "startOffset": 102031,
                     "endLine": 1360,
                     "endColumn": 12,
-                    "endOffset": 102220
+                    "endOffset": 102227
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -4421,10 +4421,10 @@
                 "to": {
                     "startLine": 1361,
                     "startColumn": 4,
-                    "startOffset": 102225,
+                    "startOffset": 102232,
                     "endLine": 1363,
                     "endColumn": 12,
-                    "endOffset": 102409
+                    "endOffset": 102416
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -4434,9 +4434,9 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 102414,
+                    "startOffset": 102421,
                     "endColumn": 83,
-                    "endOffset": 102493
+                    "endOffset": 102500
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4446,9 +4446,9 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 102498,
+                    "startOffset": 102505,
                     "endColumn": 95,
-                    "endOffset": 102589
+                    "endOffset": 102596
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4458,9 +4458,9 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 102594,
+                    "startOffset": 102601,
                     "endColumn": 95,
-                    "endOffset": 102685
+                    "endOffset": 102692
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4470,9 +4470,9 @@
                 "to": {
                     "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 102690,
+                    "startOffset": 102697,
                     "endColumn": 97,
-                    "endOffset": 102783
+                    "endOffset": 102790
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4482,9 +4482,9 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 102788,
+                    "startOffset": 102795,
                     "endColumn": 99,
-                    "endOffset": 102883
+                    "endOffset": 102890
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4494,9 +4494,9 @@
                 "to": {
                     "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 102888,
+                    "startOffset": 102895,
                     "endColumn": 101,
-                    "endOffset": 102985
+                    "endOffset": 102992
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4506,9 +4506,9 @@
                 "to": {
                     "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 102990,
+                    "startOffset": 102997,
                     "endColumn": 101,
-                    "endOffset": 103087
+                    "endOffset": 103094
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4518,9 +4518,9 @@
                 "to": {
                     "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 103092,
+                    "startOffset": 103099,
                     "endColumn": 101,
-                    "endOffset": 103189
+                    "endOffset": 103196
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4530,9 +4530,9 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 103194,
+                    "startOffset": 103201,
                     "endColumn": 101,
-                    "endOffset": 103291
+                    "endOffset": 103298
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4542,9 +4542,9 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 103296,
+                    "startOffset": 103303,
                     "endColumn": 101,
-                    "endOffset": 103393
+                    "endOffset": 103400
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4554,9 +4554,9 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 103398,
+                    "startOffset": 103405,
                     "endColumn": 99,
-                    "endOffset": 103493
+                    "endOffset": 103500
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4566,9 +4566,9 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 103498,
+                    "startOffset": 103505,
                     "endColumn": 95,
-                    "endOffset": 103589
+                    "endOffset": 103596
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4578,9 +4578,9 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 103594,
+                    "startOffset": 103601,
                     "endColumn": 111,
-                    "endOffset": 103701
+                    "endOffset": 103708
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4590,9 +4590,9 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 103706,
+                    "startOffset": 103713,
                     "endColumn": 128,
-                    "endOffset": 103830
+                    "endOffset": 103837
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4602,9 +4602,9 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 103835,
+                    "startOffset": 103842,
                     "endColumn": 122,
-                    "endOffset": 103953
+                    "endOffset": 103960
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4614,10 +4614,10 @@
                 "to": {
                     "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 103958,
+                    "startOffset": 103965,
                     "endLine": 1380,
                     "endColumn": 12,
-                    "endOffset": 104107
+                    "endOffset": 104114
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4627,10 +4627,10 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 104112,
+                    "startOffset": 104119,
                     "endLine": 1382,
                     "endColumn": 12,
-                    "endOffset": 104261
+                    "endOffset": 104268
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4640,9 +4640,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 104266,
+                    "startOffset": 104273,
                     "endColumn": 97,
-                    "endOffset": 104359
+                    "endOffset": 104366
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4652,9 +4652,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 104364,
+                    "startOffset": 104371,
                     "endColumn": 113,
-                    "endOffset": 104473
+                    "endOffset": 104480
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4664,9 +4664,9 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 104478,
+                    "startOffset": 104485,
                     "endColumn": 93,
-                    "endOffset": 104567
+                    "endOffset": 104574
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4676,10 +4676,10 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 104572,
+                    "startOffset": 104579,
                     "endLine": 1387,
                     "endColumn": 12,
-                    "endOffset": 104707
+                    "endOffset": 104714
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4689,10 +4689,10 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 104712,
+                    "startOffset": 104719,
                     "endLine": 1389,
                     "endColumn": 12,
-                    "endOffset": 104841
+                    "endOffset": 104848
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4702,9 +4702,9 @@
                 "to": {
                     "startLine": 1390,
                     "startColumn": 4,
-                    "startOffset": 104846,
+                    "startOffset": 104853,
                     "endColumn": 95,
-                    "endOffset": 104937
+                    "endOffset": 104944
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4714,9 +4714,9 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 104942,
+                    "startOffset": 104949,
                     "endColumn": 111,
-                    "endOffset": 105049
+                    "endOffset": 105056
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4726,9 +4726,9 @@
                 "to": {
                     "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 105054,
+                    "startOffset": 105061,
                     "endColumn": 99,
-                    "endOffset": 105149
+                    "endOffset": 105156
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4738,9 +4738,9 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 105154,
+                    "startOffset": 105161,
                     "endColumn": 115,
-                    "endOffset": 105265
+                    "endOffset": 105272
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4750,9 +4750,9 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 105270,
+                    "startOffset": 105277,
                     "endColumn": 95,
-                    "endOffset": 105361
+                    "endOffset": 105368
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4762,9 +4762,9 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 105366,
+                    "startOffset": 105373,
                     "endColumn": 111,
-                    "endOffset": 105473
+                    "endOffset": 105480
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4774,10 +4774,10 @@
                 "to": {
                     "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 105478,
+                    "startOffset": 105485,
                     "endLine": 1397,
                     "endColumn": 12,
-                    "endOffset": 105613
+                    "endOffset": 105620
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4787,9 +4787,9 @@
                 "to": {
                     "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 105618,
+                    "startOffset": 105625,
                     "endColumn": 135,
-                    "endOffset": 105749
+                    "endOffset": 105756
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4799,10 +4799,10 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 105754,
+                    "startOffset": 105761,
                     "endLine": 1400,
                     "endColumn": 12,
-                    "endOffset": 105913
+                    "endOffset": 105920
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4812,9 +4812,9 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 105918,
+                    "startOffset": 105925,
                     "endColumn": 129,
-                    "endOffset": 106043
+                    "endOffset": 106050
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4824,10 +4824,10 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 106048,
+                    "startOffset": 106055,
                     "endLine": 1403,
                     "endColumn": 12,
-                    "endOffset": 106201
+                    "endOffset": 106208
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4837,10 +4837,10 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 106206,
+                    "startOffset": 106213,
                     "endLine": 1405,
                     "endColumn": 12,
-                    "endOffset": 106351
+                    "endOffset": 106358
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4850,9 +4850,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 106356,
+                    "startOffset": 106363,
                     "endColumn": 140,
-                    "endOffset": 106492
+                    "endOffset": 106499
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4862,10 +4862,10 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 106497,
+                    "startOffset": 106504,
                     "endLine": 1408,
                     "endColumn": 12,
-                    "endOffset": 106636
+                    "endOffset": 106643
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4875,9 +4875,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 106641,
+                    "startOffset": 106648,
                     "endColumn": 134,
-                    "endOffset": 106771
+                    "endOffset": 106778
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4887,9 +4887,9 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 106776,
+                    "startOffset": 106783,
                     "endColumn": 111,
-                    "endOffset": 106883
+                    "endOffset": 106890
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4899,9 +4899,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 106888,
+                    "startOffset": 106895,
                     "endColumn": 127,
-                    "endOffset": 107011
+                    "endOffset": 107018
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4911,10 +4911,10 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 107016,
+                    "startOffset": 107023,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 107147
+                    "endOffset": 107154
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4924,10 +4924,10 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 107152,
+                    "startOffset": 107159,
                     "endLine": 1415,
                     "endColumn": 12,
-                    "endOffset": 107289
+                    "endOffset": 107296
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4937,10 +4937,10 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 107294,
+                    "startOffset": 107301,
                     "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 107431
+                    "endOffset": 107438
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4950,9 +4950,9 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 107436,
+                    "startOffset": 107443,
                     "endColumn": 111,
-                    "endOffset": 107543
+                    "endOffset": 107550
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4962,9 +4962,9 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 107548,
+                    "startOffset": 107555,
                     "endColumn": 139,
-                    "endOffset": 107683
+                    "endOffset": 107690
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4974,9 +4974,9 @@
                 "to": {
                     "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 107688,
+                    "startOffset": 107695,
                     "endColumn": 67,
-                    "endOffset": 107751
+                    "endOffset": 107758
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4986,9 +4986,9 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 107756,
+                    "startOffset": 107763,
                     "endColumn": 72,
-                    "endOffset": 107824
+                    "endOffset": 107831
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -4998,9 +4998,9 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 107829,
+                    "startOffset": 107836,
                     "endColumn": 73,
-                    "endOffset": 107898
+                    "endOffset": 107905
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5010,9 +5010,9 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 107903,
+                    "startOffset": 107910,
                     "endColumn": 72,
-                    "endOffset": 107971
+                    "endOffset": 107978
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5022,9 +5022,9 @@
                 "to": {
                     "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 107976,
+                    "startOffset": 107983,
                     "endColumn": 73,
-                    "endOffset": 108045
+                    "endOffset": 108052
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5034,10 +5034,10 @@
                 "to": {
                     "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 108050,
+                    "startOffset": 108057,
                     "endLine": 1426,
                     "endColumn": 12,
-                    "endOffset": 108191
+                    "endOffset": 108198
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5047,10 +5047,10 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 108196,
+                    "startOffset": 108203,
                     "endLine": 1428,
                     "endColumn": 12,
-                    "endOffset": 108335
+                    "endOffset": 108342
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5060,10 +5060,10 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 108340,
+                    "startOffset": 108347,
                     "endLine": 1430,
                     "endColumn": 12,
-                    "endOffset": 108473
+                    "endOffset": 108480
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5073,9 +5073,9 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 108478,
+                    "startOffset": 108485,
                     "endColumn": 25,
-                    "endOffset": 108499
+                    "endOffset": 108506
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -5085,9 +5085,9 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 108504,
+                    "startOffset": 108511,
                     "endColumn": 65,
-                    "endOffset": 108565
+                    "endOffset": 108572
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5097,9 +5097,9 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 108570,
+                    "startOffset": 108577,
                     "endColumn": 89,
-                    "endOffset": 108655
+                    "endOffset": 108662
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5109,9 +5109,9 @@
                 "to": {
                     "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 108660,
+                    "startOffset": 108667,
                     "endColumn": 79,
-                    "endOffset": 108735
+                    "endOffset": 108742
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5121,9 +5121,9 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 108740,
+                    "startOffset": 108747,
                     "endColumn": 91,
-                    "endOffset": 108827
+                    "endOffset": 108834
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5133,9 +5133,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 108832,
+                    "startOffset": 108839,
                     "endColumn": 97,
-                    "endOffset": 108925
+                    "endOffset": 108932
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5145,10 +5145,10 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 108930,
+                    "startOffset": 108937,
                     "endLine": 1438,
                     "endColumn": 12,
-                    "endOffset": 109035
+                    "endOffset": 109042
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5158,9 +5158,9 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 109040,
+                    "startOffset": 109047,
                     "endColumn": 77,
-                    "endOffset": 109113
+                    "endOffset": 109120
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5170,9 +5170,9 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 109118,
+                    "startOffset": 109125,
                     "endColumn": 105,
-                    "endOffset": 109219
+                    "endOffset": 109226
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5182,9 +5182,9 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 109224,
+                    "startOffset": 109231,
                     "endColumn": 91,
-                    "endOffset": 109311
+                    "endOffset": 109318
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5194,9 +5194,9 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 109316,
+                    "startOffset": 109323,
                     "endColumn": 103,
-                    "endOffset": 109415
+                    "endOffset": 109422
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5206,9 +5206,9 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 109420,
+                    "startOffset": 109427,
                     "endColumn": 109,
-                    "endOffset": 109525
+                    "endOffset": 109532
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5218,10 +5218,10 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 109530,
+                    "startOffset": 109537,
                     "endLine": 1445,
                     "endColumn": 12,
-                    "endOffset": 109647
+                    "endOffset": 109654
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5231,10 +5231,10 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 109652,
+                    "startOffset": 109659,
                     "endLine": 1449,
                     "endColumn": 12,
-                    "endOffset": 109810
+                    "endOffset": 109817
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5244,10 +5244,10 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 109815,
+                    "startOffset": 109822,
                     "endLine": 1453,
                     "endColumn": 12,
-                    "endOffset": 109967
+                    "endOffset": 109974
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5257,9 +5257,9 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 109972,
+                    "startOffset": 109979,
                     "endColumn": 34,
-                    "endOffset": 110002
+                    "endOffset": 110009
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -5269,10 +5269,10 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 110007,
+                    "startOffset": 110014,
                     "endLine": 1461,
                     "endColumn": 10,
-                    "endOffset": 110468
+                    "endOffset": 110475
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -5282,10 +5282,10 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 110473,
+                    "startOffset": 110480,
                     "endLine": 1468,
                     "endColumn": 10,
-                    "endOffset": 110846
+                    "endOffset": 110853
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -5295,10 +5295,10 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 110851,
+                    "startOffset": 110858,
                     "endLine": 1471,
                     "endColumn": 10,
-                    "endOffset": 111023
+                    "endOffset": 111030
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -5308,10 +5308,10 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 111028,
+                    "startOffset": 111035,
                     "endLine": 1474,
                     "endColumn": 10,
-                    "endOffset": 111202
+                    "endOffset": 111209
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -5321,10 +5321,10 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 111207,
+                    "startOffset": 111214,
                     "endLine": 1477,
                     "endColumn": 12,
-                    "endOffset": 111385
+                    "endOffset": 111392
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -5334,10 +5334,10 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 111390,
+                    "startOffset": 111397,
                     "endLine": 1483,
                     "endColumn": 12,
-                    "endOffset": 111750
+                    "endOffset": 111757
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.45.1\\res\\values\\values.xml"
@@ -5347,9 +5347,9 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 111755,
+                    "startOffset": 111762,
                     "endColumn": 79,
-                    "endOffset": 111830
+                    "endOffset": 111837
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5359,9 +5359,9 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 111835,
+                    "startOffset": 111842,
                     "endColumn": 99,
-                    "endOffset": 111930
+                    "endOffset": 111937
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5371,9 +5371,9 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 111935,
+                    "startOffset": 111942,
                     "endColumn": 89,
-                    "endOffset": 112020
+                    "endOffset": 112027
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5383,9 +5383,9 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 112025,
+                    "startOffset": 112032,
                     "endColumn": 109,
-                    "endOffset": 112130
+                    "endOffset": 112137
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5395,9 +5395,9 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 112135,
+                    "startOffset": 112142,
                     "endColumn": 91,
-                    "endOffset": 112222
+                    "endOffset": 112229
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5407,10 +5407,10 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 112227,
+                    "startOffset": 112234,
                     "endLine": 1490,
                     "endColumn": 12,
-                    "endOffset": 112322
+                    "endOffset": 112329
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5420,10 +5420,10 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 112327,
+                    "startOffset": 112334,
                     "endLine": 1492,
                     "endColumn": 12,
-                    "endOffset": 112434
+                    "endOffset": 112441
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5433,10 +5433,10 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 112439,
+                    "startOffset": 112446,
                     "endLine": 1494,
                     "endColumn": 12,
-                    "endOffset": 112548
+                    "endOffset": 112555
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5446,10 +5446,10 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 112553,
+                    "startOffset": 112560,
                     "endLine": 1496,
                     "endColumn": 12,
-                    "endOffset": 112664
+                    "endOffset": 112671
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5459,10 +5459,10 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 112669,
+                    "startOffset": 112676,
                     "endLine": 1498,
                     "endColumn": 12,
-                    "endOffset": 112780
+                    "endOffset": 112787
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5472,9 +5472,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 112785,
+                    "startOffset": 112792,
                     "endColumn": 93,
-                    "endOffset": 112874
+                    "endOffset": 112881
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5484,9 +5484,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 112879,
+                    "startOffset": 112886,
                     "endColumn": 113,
-                    "endOffset": 112988
+                    "endOffset": 112995
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5496,9 +5496,9 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 112993,
+                    "startOffset": 113000,
                     "endColumn": 117,
-                    "endOffset": 113106
+                    "endOffset": 113113
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5508,10 +5508,10 @@
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 113111,
+                    "startOffset": 113118,
                     "endLine": 1503,
                     "endColumn": 12,
-                    "endOffset": 113208
+                    "endOffset": 113215
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5521,10 +5521,10 @@
                 "to": {
                     "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 113213,
+                    "startOffset": 113220,
                     "endLine": 1505,
                     "endColumn": 12,
-                    "endOffset": 113328
+                    "endOffset": 113335
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5534,10 +5534,10 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 113333,
+                    "startOffset": 113340,
                     "endLine": 1507,
                     "endColumn": 12,
-                    "endOffset": 113450
+                    "endOffset": 113457
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5547,9 +5547,9 @@
                 "to": {
                     "startLine": 1508,
                     "startColumn": 4,
-                    "startOffset": 113455,
+                    "startOffset": 113462,
                     "endColumn": 81,
-                    "endOffset": 113532
+                    "endOffset": 113539
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5559,9 +5559,9 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 113537,
+                    "startOffset": 113544,
                     "endColumn": 103,
-                    "endOffset": 113636
+                    "endOffset": 113643
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5571,9 +5571,9 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 113641,
+                    "startOffset": 113648,
                     "endColumn": 119,
-                    "endOffset": 113756
+                    "endOffset": 113763
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5583,9 +5583,9 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 113761,
+                    "startOffset": 113768,
                     "endColumn": 125,
-                    "endOffset": 113882
+                    "endOffset": 113889
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5595,9 +5595,9 @@
                 "to": {
                     "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 113887,
+                    "startOffset": 113894,
                     "endColumn": 97,
-                    "endOffset": 113980
+                    "endOffset": 113987
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5607,9 +5607,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 113985,
+                    "startOffset": 113992,
                     "endColumn": 93,
-                    "endOffset": 114074
+                    "endOffset": 114081
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5619,9 +5619,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 114079,
+                    "startOffset": 114086,
                     "endColumn": 87,
-                    "endOffset": 114162
+                    "endOffset": 114169
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5631,9 +5631,9 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 114167,
+                    "startOffset": 114174,
                     "endColumn": 111,
-                    "endOffset": 114274
+                    "endOffset": 114281
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5643,9 +5643,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 114279,
+                    "startOffset": 114286,
                     "endColumn": 115,
-                    "endOffset": 114390
+                    "endOffset": 114397
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5655,9 +5655,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 114395,
+                    "startOffset": 114402,
                     "endColumn": 121,
-                    "endOffset": 114512
+                    "endOffset": 114519
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5667,9 +5667,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 114517,
+                    "startOffset": 114524,
                     "endColumn": 111,
-                    "endOffset": 114624
+                    "endOffset": 114631
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5679,10 +5679,10 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 114629,
+                    "startOffset": 114636,
                     "endLine": 1521,
                     "endColumn": 12,
-                    "endOffset": 114799
+                    "endOffset": 114806
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5692,9 +5692,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 114804,
+                    "startOffset": 114811,
                     "endColumn": 115,
-                    "endOffset": 114915
+                    "endOffset": 114922
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5704,9 +5704,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 114920,
+                    "startOffset": 114927,
                     "endColumn": 85,
-                    "endOffset": 115001
+                    "endOffset": 115008
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5716,10 +5716,10 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 115006,
+                    "startOffset": 115013,
                     "endLine": 1525,
                     "endColumn": 12,
-                    "endOffset": 115113
+                    "endOffset": 115120
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5729,10 +5729,10 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 115118,
+                    "startOffset": 115125,
                     "endLine": 1527,
                     "endColumn": 12,
-                    "endOffset": 115237
+                    "endOffset": 115244
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5742,9 +5742,9 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 115242,
+                    "startOffset": 115249,
                     "endColumn": 66,
-                    "endOffset": 115304
+                    "endOffset": 115311
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5754,10 +5754,10 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 115309,
+                    "startOffset": 115316,
                     "endLine": 1530,
                     "endColumn": 12,
-                    "endOffset": 115430
+                    "endOffset": 115437
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5767,9 +5767,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 115435,
+                    "startOffset": 115442,
                     "endColumn": 67,
-                    "endOffset": 115498
+                    "endOffset": 115505
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5779,10 +5779,10 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 115503,
+                    "startOffset": 115510,
                     "endLine": 1533,
                     "endColumn": 12,
-                    "endOffset": 115626
+                    "endOffset": 115633
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5792,10 +5792,10 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 115631,
+                    "startOffset": 115638,
                     "endLine": 1535,
                     "endColumn": 12,
-                    "endOffset": 115770
+                    "endOffset": 115777
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5805,10 +5805,10 @@
                 "to": {
                     "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 115775,
+                    "startOffset": 115782,
                     "endLine": 1537,
                     "endColumn": 12,
-                    "endOffset": 115898
+                    "endOffset": 115905
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5818,9 +5818,9 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 115903,
+                    "startOffset": 115910,
                     "endColumn": 68,
-                    "endOffset": 115967
+                    "endOffset": 115974
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5830,9 +5830,9 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 115972,
+                    "startOffset": 115979,
                     "endColumn": 94,
-                    "endOffset": 116062
+                    "endOffset": 116069
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5842,9 +5842,9 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 116067,
+                    "startOffset": 116074,
                     "endColumn": 114,
-                    "endOffset": 116177
+                    "endOffset": 116184
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5854,9 +5854,9 @@
                 "to": {
                     "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 116182,
+                    "startOffset": 116189,
                     "endColumn": 112,
-                    "endOffset": 116290
+                    "endOffset": 116297
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5866,9 +5866,9 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 116295,
+                    "startOffset": 116302,
                     "endColumn": 98,
-                    "endOffset": 116389
+                    "endOffset": 116396
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5878,9 +5878,9 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 116394,
+                    "startOffset": 116401,
                     "endColumn": 108,
-                    "endOffset": 116498
+                    "endOffset": 116505
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5890,9 +5890,9 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 116503,
+                    "startOffset": 116510,
                     "endColumn": 110,
-                    "endOffset": 116609
+                    "endOffset": 116616
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5902,9 +5902,9 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 116614,
+                    "startOffset": 116621,
                     "endColumn": 110,
-                    "endOffset": 116720
+                    "endOffset": 116727
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5914,9 +5914,9 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 116725,
+                    "startOffset": 116732,
                     "endColumn": 100,
-                    "endOffset": 116821
+                    "endOffset": 116828
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5926,9 +5926,9 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 116826,
+                    "startOffset": 116833,
                     "endColumn": 104,
-                    "endOffset": 116926
+                    "endOffset": 116933
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5938,10 +5938,10 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 116931,
+                    "startOffset": 116938,
                     "endLine": 1549,
                     "endColumn": 12,
-                    "endOffset": 117038
+                    "endOffset": 117045
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5951,10 +5951,10 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 117043,
+                    "startOffset": 117050,
                     "endLine": 1551,
                     "endColumn": 12,
-                    "endOffset": 117168
+                    "endOffset": 117175
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5964,9 +5964,9 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 117173,
+                    "startOffset": 117180,
                     "endColumn": 90,
-                    "endOffset": 117259
+                    "endOffset": 117266
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5976,9 +5976,9 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 117264,
+                    "startOffset": 117271,
                     "endColumn": 122,
-                    "endOffset": 117382
+                    "endOffset": 117389
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -5988,10 +5988,10 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 117387,
+                    "startOffset": 117394,
                     "endLine": 1555,
                     "endColumn": 12,
-                    "endOffset": 117494
+                    "endOffset": 117501
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6001,9 +6001,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 117499,
+                    "startOffset": 117506,
                     "endColumn": 85,
-                    "endOffset": 117580
+                    "endOffset": 117587
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6013,9 +6013,9 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 117585,
+                    "startOffset": 117592,
                     "endColumn": 103,
-                    "endOffset": 117684
+                    "endOffset": 117691
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6025,10 +6025,10 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 117689,
+                    "startOffset": 117696,
                     "endLine": 1559,
                     "endColumn": 12,
-                    "endOffset": 117792
+                    "endOffset": 117799
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6038,10 +6038,10 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 117797,
+                    "startOffset": 117804,
                     "endLine": 1561,
                     "endColumn": 12,
-                    "endOffset": 117892
+                    "endOffset": 117899
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6051,10 +6051,10 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 117897,
+                    "startOffset": 117904,
                     "endLine": 1563,
                     "endColumn": 12,
-                    "endOffset": 118010
+                    "endOffset": 118017
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6064,10 +6064,10 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 118015,
+                    "startOffset": 118022,
                     "endLine": 1565,
                     "endColumn": 12,
-                    "endOffset": 118114
+                    "endOffset": 118121
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6077,10 +6077,10 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 118119,
+                    "startOffset": 118126,
                     "endLine": 1567,
                     "endColumn": 12,
-                    "endOffset": 118218
+                    "endOffset": 118225
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6090,10 +6090,10 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 118223,
+                    "startOffset": 118230,
                     "endLine": 1569,
                     "endColumn": 12,
-                    "endOffset": 118344
+                    "endOffset": 118351
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6103,9 +6103,9 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 118349,
+                    "startOffset": 118356,
                     "endColumn": 87,
-                    "endOffset": 118432
+                    "endOffset": 118439
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6115,9 +6115,9 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 118437,
+                    "startOffset": 118444,
                     "endColumn": 89,
-                    "endOffset": 118522
+                    "endOffset": 118529
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6127,9 +6127,9 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 118527,
+                    "startOffset": 118534,
                     "endColumn": 109,
-                    "endOffset": 118632
+                    "endOffset": 118639
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6139,9 +6139,9 @@
                 "to": {
                     "startLine": 1573,
                     "startColumn": 4,
-                    "startOffset": 118637,
+                    "startOffset": 118644,
                     "endColumn": 83,
-                    "endOffset": 118716
+                    "endOffset": 118723
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6151,9 +6151,9 @@
                 "to": {
                     "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 118721,
+                    "startOffset": 118728,
                     "endColumn": 53,
-                    "endOffset": 118770
+                    "endOffset": 118777
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6163,9 +6163,9 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 118775,
+                    "startOffset": 118782,
                     "endColumn": 63,
-                    "endOffset": 118834
+                    "endOffset": 118841
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6175,9 +6175,9 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 118839,
+                    "startOffset": 118846,
                     "endColumn": 105,
-                    "endOffset": 118940
+                    "endOffset": 118947
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6187,9 +6187,9 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 118945,
+                    "startOffset": 118952,
                     "endColumn": 109,
-                    "endOffset": 119050
+                    "endOffset": 119057
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6199,9 +6199,9 @@
                 "to": {
                     "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 119055,
+                    "startOffset": 119062,
                     "endColumn": 83,
-                    "endOffset": 119134
+                    "endOffset": 119141
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"
@@ -6211,9 +6211,9 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 119139,
+                    "startOffset": 119146,
                     "endColumn": 119,
-                    "endOffset": 119254
+                    "endOffset": 119261
                 },
                 "from": {
                     "file": "D:\\ReactNative\\navigation\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values\\values.xml"

@@ -1,3 +1,7 @@
+/**
+ * Author: enqtran
+ * Uri: enqtran.com
+ */ 
 import React, { Component } from 'react';
 import { Text, View, TouchableOpacity } from 'react-native';
 

@@ -1,3 +1,7 @@
+/**
+ * Author: enqtran
+ * Uri: enqtran.com
+ */ 
 import React, { Component } from 'react';
 import { Text, View, TouchableOpacity } from 'react-native';
 
@@ -20,6 +24,24 @@ export default class Home extends Component {
                     }}
                 >
                     <Text style={btn}>Goto Detail</Text>
+                </TouchableOpacity>
+
+                <TouchableOpacity
+                    style={btn_touch}
+                    onPress={() => {
+                        this.props.navigation.navigate('MainGifScreen', { data: 'Image', description: 'image' })
+                    }}
+                >
+                    <Text style={btn}>Goto Image</Text>
+                </TouchableOpacity>
+
+                <TouchableOpacity
+                    style={btn_touch}
+                    onPress={() => {
+                        this.props.navigation.navigate('ColorPicker', { data: 'ColorPicker', description: 'ColorPicker' })
+                    }}
+                >
+                    <Text style={btn}>Color Picker</Text>
                 </TouchableOpacity>
 
                 <TouchableOpacity
