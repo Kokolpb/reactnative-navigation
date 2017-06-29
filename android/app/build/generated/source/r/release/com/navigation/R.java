@@ -1806,11 +1806,8 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f02003b;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f02003c;
         public static final int abc_textfield_search_material=0x7f02003d;
-        public static final int node_modules_reactnavigation_src_views_assets_backicon=0x7f02003e;
-        public static final int notification_template_icon_bg=0x7f020042;
-        public static final int src_images_1=0x7f02003f;
-        public static final int src_images_2=0x7f020040;
-        public static final int src_images_3=0x7f020041;
+        public static final int node_modules_reactnativedatepicker_date_icon=0x7f02003e;
+        public static final int notification_template_icon_bg=0x7f02003f;
     }
     public static final class id {
         public static final int action0=0x7f0d0058;
@@ -2028,6 +2025,8 @@ containing a value of this type.
         public static final int Animation_AppCompat_Dialog=0x7f09007c;
         public static final int Animation_AppCompat_DropDownUp=0x7f09007d;
         public static final int Animation_Catalyst_RedBox=0x7f09007e;
+        /**  Customize your theme here. 
+         */
         public static final int AppTheme=0x7f09007f;
         public static final int Base_AlertDialog_AppCompat=0x7f090080;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f090081;

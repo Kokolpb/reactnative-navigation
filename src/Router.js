@@ -11,6 +11,7 @@ import Detail from './screen/Detail';
 import Menu from './screen/Menu';
 import MainGif from './screen/MainGif';
 import ColorPicker from './screen/ColorPicker';
+import NextMonth from './screen/NextMonth';
 
 export const HomeStack = StackNavigator({
     HomeScreen: {
@@ -53,6 +54,17 @@ export const HomeStack = StackNavigator({
         screen: ColorPicker,
         navigationOptions: {
             title: 'ColorPicker',
+            headerTitleStyle: {
+                alignSelf: 'center',
+                textAlign: 'center'
+            },
+            headerRight: <View />
+        }
+    },
+    NextMonth: {
+        screen: NextMonth,
+        navigationOptions: {
+            title: 'NextMonth',
             headerTitleStyle: {
                 alignSelf: 'center',
                 textAlign: 'center'

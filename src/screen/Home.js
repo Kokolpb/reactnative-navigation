@@ -9,14 +9,16 @@ export default class Home extends Component {
     // static navigationOptions = {
     //     title: 'Trang chủ'
     // }
+    constructor(props) {
+        super(props);
+        this.state = {
+        }
+    }
 
     render() {
         const { wrapper, btn, btn_touch } = styles;
         return (
             <View style={wrapper}>
-                <Text>
-                    Home
-                </Text>
                 <TouchableOpacity
                     style={btn_touch}
                     onPress={() => {
@@ -42,6 +44,15 @@ export default class Home extends Component {
                     }}
                 >
                     <Text style={btn}>Color Picker</Text>
+                </TouchableOpacity>
+
+                <TouchableOpacity
+                    style={btn_touch}
+                    onPress={() => {
+                        this.props.navigation.navigate('NextMonth', { data: 'NextMonth', description: 'NextMonth' })
+                    }}
+                >
+                    <Text style={btn}>Next Mo Month</Text>
                 </TouchableOpacity>
 
                 <TouchableOpacity
