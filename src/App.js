@@ -10,15 +10,12 @@ import Animated2 from './screen/Animated2';
 import TransformBg from './screen/TransformBg';
 import TransformRotate from './screen/TransformRotate';
 import ResponseView from './screen/ResponseView';
+import GirlView from './screen/GirlView';
 
 export default class App extends Component {
 	render() {
 		return (
-			<View style={{flex:1, justifyContent:'center'}}>
-				<ResponseView style={{backgroundColor:'yellow'}}>
-					<Text style={{fontSize:30}}>enqtran</Text>
-				</ResponseView>
-			</View>
+			<GirlView />
 		);
 	}
 }
