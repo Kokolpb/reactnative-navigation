@@ -13,6 +13,13 @@ import MainGif from './screen/MainGif';
 import ColorPicker from './screen/ColorPicker';
 import NextMonth from './screen/NextMonth';
 
+import Animated1 from './screen/Animated1';
+import Animated2 from './screen/Animated2';
+import TransformBg from './screen/TransformBg';
+import TransformRotate from './screen/TransformRotate';
+import ResponseView from './screen/ResponseView';
+import GirlView from './screen/GirlView';
+
 export const HomeStack = StackNavigator({
     HomeScreen: {
         //name class screen 
@@ -71,7 +78,74 @@ export const HomeStack = StackNavigator({
             },
             headerRight: <View />
         }
-    }
+    },
+    FadeIn: {
+        screen: Animated1,
+        navigationOptions: {
+            title: 'FadeIn',
+            headerTitleStyle: {
+                alignSelf: 'center',
+                textAlign: 'center'
+            },
+            headerRight: <View />
+        }
+    },
+    Animated2: {
+        screen: Animated2,
+        navigationOptions: {
+            title: 'Animated2',
+            headerTitleStyle: {
+                alignSelf: 'center',
+                textAlign: 'center'
+            },
+            headerRight: <View />
+        }
+    },
+    TransformBg: {
+        screen: TransformBg,
+        navigationOptions: {
+            title: 'TransformBg',
+            headerTitleStyle: {
+                alignSelf: 'center',
+                textAlign: 'center'
+            },
+            headerRight: <View />
+        }
+    },
+    TransformRotate: {
+        screen: TransformRotate,
+        navigationOptions: {
+            title: 'TransformRotate',
+            headerTitleStyle: {
+                alignSelf: 'center',
+                textAlign: 'center'
+            },
+            headerRight: <View />
+        }
+    },
+    ResponseView: {
+        screen: ResponseView,
+        navigationOptions: {
+            title: 'ResponseView',
+            headerTitleStyle: {
+                alignSelf: 'center',
+                textAlign: 'center'
+            },
+            headerRight: <View />
+        }
+    },
+    GirlView: {
+        screen: GirlView,
+        navigationOptions: {
+            title: 'GirlView',
+            headerTitleStyle: {
+                alignSelf: 'center',
+                textAlign: 'center'
+            },
+            headerRight: <View />
+        }
+    },
+
 });
 
 
